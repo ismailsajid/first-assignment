@@ -45,3 +45,13 @@ main{
 .inspiration{
     text-align: center;
 }
+.video{
+    margin-bottom: 100px;
+}
+/* target */
+.targets-title, .targets-description{
+    text-align: center;
+}
+.target-container{
+    display: flex;
+}
