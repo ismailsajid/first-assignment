@@ -54,4 +54,20 @@ main{
 }
 .target-container{
     display: flex;
+    margin-bottom: 200px;
+}
+/* footer */
+footer{
+    position: absolute;
+width: 1140px;
+height: 314px;
+left: 150px;
+right: 150px;
+}
+.last-page{
+    text-align: center;
+    background-image: url(../assets/handshake.jpg);
+    background-size: cover;
+    background-repeat: no-repeats;
+    
 }
